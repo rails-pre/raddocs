@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = ">= 1.3.6"
 
   # If adding, please consider gemfiles/minimum_dependencies
-  s.add_runtime_dependency "sinatra", "~> 1.3", ">= 1.3.0"
+  s.add_runtime_dependency "sinatra", ">= 1.3.0"
   s.add_runtime_dependency "haml", "~> 4.0", ">= 4.0.4"
   s.add_runtime_dependency "json", "~> 1.8", ">= 1.8.1"
 
